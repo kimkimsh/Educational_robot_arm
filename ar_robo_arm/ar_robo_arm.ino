@@ -1,5 +1,5 @@
 /* ============================================
-  Educational_robot_arm arduino and processing code is placed under the MIT license
+  ar_robo_arm arduino and processing code is placed under the MIT license
   Copyright (c) 2020 kimkimsh
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
